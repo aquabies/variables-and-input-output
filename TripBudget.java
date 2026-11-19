@@ -1,3 +1,4 @@
+// october 15, 2026
 import java.util.Scanner;
 
 public class TripBudget{
