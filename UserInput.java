@@ -1,3 +1,4 @@
+// october 14, 2026 | user input
 import java.util.Scanner;
 
 public class UserInput{
