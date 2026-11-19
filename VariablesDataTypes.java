@@ -1,5 +1,5 @@
 // october 6, 2026 | variables and data types
-public class Main {
+public class VariablesDataTypes {
     public static void main(String[] args) {
         String name = "Name";
         int age = 2;
