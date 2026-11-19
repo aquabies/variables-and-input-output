@@ -1,3 +1,4 @@
+// october 21, 2026
 import java.util.Scanner;
 
 public class WeeklyAllowance{
